@@ -1,6 +1,9 @@
-COLLAB0RATED RESEARCH
+#JOURNAL
+- A Repository with loads of stuff worthy to be researched upon.
+#Topics Included:
+- Theoretical Physics
+- Computer Science
+- The Science behind Vehicles
+- Philosophy
+- Electronics
 
-A Repository soecifically dedicated to Research Topics in:
-- Technical Topics in Theoretical Physics
-- Mechanics
-- Computer Technologies 
