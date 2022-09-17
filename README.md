@@ -1,11 +1,9 @@
-JOURNAL
+# JOURNAL
+A Repository with loads of stuff worthy to be researched & discussed upon.
 
-A Repository with loads of stuff worthy to be researched upon.
-
-Topics Included:
+Topics Include:
 - Theoretical Physics
 - Computer Science
 - The Science behind Vehicles
-- Philosophy
 - Electronics
 
